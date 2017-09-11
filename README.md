@@ -1,6 +1,7 @@
 # BC Growth Curve Coercer
 This is a project I completed for Natural Resources Canada as part of my 8 month coop from January 2017 to September 2017. 
-It is publicly hosted with their permission to be used as an example of my abilites. 
+It is publicly hosted with their permission to be used as an example of my abilites. It was version controlled on git before, but I did not 
+bring the repository information with me as transfer speeds to USB were limiting, which is why I created a brand new repository.
 
 ### What it does
 In forest carbon modelling, three inputs are required: forest inventory, forest growth and yield curves, and future harvest projections.

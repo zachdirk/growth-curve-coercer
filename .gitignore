@@ -1,0 +1,12 @@
+.vscode
+build
+debug
+testing
+doc/*.Rhistory
+*.bat
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+~$*
